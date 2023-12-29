@@ -7,17 +7,29 @@ with prevention of sql injections by
 creation of session variables
 1)to implement access control via preventing url access of content
 
-Built using HTML,CSS,PHP
-for ubuntu or any linux based os users follow below 
-need to install XAMPP
-need to place newsportal folder in /opt/lampp/htdocs
-give necessary permission by sudo chown $USER:$USER newsportal
-open xampp
-start mysql database in GUI
-start apache server in GUI
-open browser and type 
-localhost/dashboard
-and localhost/phpmyadmin
-create new database called "news" not by any other name
-import the .sql file provided 
-now open in browser localhost/news/admin.php
+1)Built using HTML,CSS,PHP
+for ubuntu or any linux based os users 
+
+2)follow below
+
+3)need to install XAMPP
+
+4)need to place newsportal folder in /opt/lampp/htdocs
+
+5)give necessary permission by sudo chown $USER:$USER newsportal
+
+6)open xampp
+
+7)start mysql database in GUI
+
+8)start apache server in GUI
+
+9)open browser and type 
+
+10)localhost/dashboard and localhost/phpmyadmin
+
+11)create new database called "news" not by any other name
+
+12)import the .sql file provided 
+
+13)now open in browser localhost/news/admin.php
