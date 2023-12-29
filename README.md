@@ -5,4 +5,4 @@ with prevention of sql injections by
 3) input sanitization
 
 creation of session variables
-   1)to implement access control via preventing url access of content
+1)to implement access control via preventing url access of content
